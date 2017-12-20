@@ -2,13 +2,13 @@
 class Dog
 
   # Writer
-  def set_name=(name)
+  def name=(name)
     @name = name
   end
-  # Reader
-  def name
-    @name
-  end
+  # # Reader
+  # def name
+  #   @name
+  # end
 
 end
 
