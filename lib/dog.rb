@@ -1,7 +1,12 @@
 # Your code goes here!
 class Dog
-  def initiate(name)
+  # Writer
+  def name=(name)
     @name = name
+  end
+
+  def name
+    @name
   end
 end
 
