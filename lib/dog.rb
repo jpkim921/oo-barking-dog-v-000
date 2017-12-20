@@ -1,8 +1,8 @@
 # Your code goes here!
 class Dog
 
-  # Writer
-  def name= (name)
+  # Setter
+  def name=(name)
     @name = name
   end
   # # Reader
